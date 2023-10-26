@@ -1,10 +1,4 @@
-// function ToggleDetail(e) {
-//    const target = $(e.target)
-//    const item = $(target).parents(".about-exp-item")
-//    const detail = $(item).children(".about-exp-detail")
-   
-//    $(detail).slideToggle()
-// }
+
 
 
 $( ".0" ).on( "click", function() {
